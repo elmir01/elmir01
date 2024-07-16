@@ -18,17 +18,12 @@
 
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
 
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Dart,Flutter,.net**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Backend Development .net**
 
 - ☁️ I've keen interest in mobile programming. So,I'm learning **Flutter**
 
@@ -85,7 +80,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,figma,firebase,github,html,java,materialui,mysql,postman,vscode,dart,flutter&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,figma,firebase,github,html,java,materialui,mysql,postman,vscode,viualstudio,dart,flutter&perline=14" />
   </a>
 </p>
 
