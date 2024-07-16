@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in mobile programming. So,I'm learning **Flutter**
 
-- 📝 I regularly write articles on [Hashnode](www.linkedin.com/in/elmir-mikayıllı)
+- 📝 I regularly write articles on [Linkedin](www.linkedin.com/in/elmir-mikayıllı)
 
 - 💬 Ask me about **Dart,Flutter,.net**
 
@@ -117,4 +117,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/elmir01)
+Credit: [elmir01](https://github.com/elmir01)
